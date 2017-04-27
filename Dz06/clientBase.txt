@@ -1,0 +1,5 @@
+id=0[firstname=Ivanov, lastname=Ivan, passport=MP111111, adress=Burdeynogo 1-15, telNumber=3101010, takeEquipment={}, takeAcsessories={}]
+id=1[firstname=Petrov, lastname=Petr, passport=MP222222, adress=Burdeynogo 2-30, telNumber=3202020, takeEquipment={}, takeAcsessories={}]
+id=2[firstname=Sidorov, lastname=Sidor, passport=MP333333, adress=Burdeynogo 3-45, telNumber=5303030, takeEquipment={6=id=6[category=Skis, title=Fischer, isAvialible=false, rentPrice=15.1, lostPrice=50.05]}, takeAcsessories={}]
+id=3[firstname=Putin, lastname=Vladimir, passport=TopSecret, adress=Kreml, telNumber=SecretNumber, takeEquipment={}, takeAcsessories={}]
+id=4[firstname=Batka, lastname=Sashok, passport=Яки таки пашпарт?, adress=Drozdi, telNumber=Навошта ен мне?, takeEquipment={}, takeAcsessories={}]

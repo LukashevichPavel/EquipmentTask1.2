@@ -1,0 +1,8 @@
+id=0[category=Bike, title=Aist, isAvialible=true, rentPrice=25.15, lostPrice=150.0]
+id=1[category=Bike, title=Stells, isAvialible=true, rentPrice=27.15, lostPrice=250.0]
+id=2[category=Bike, title=Fuji, isAvialible=true, rentPrice=28.1, lostPrice=195.0]
+id=3[category=SnowBoard, title=Flow, isAvialible=true, rentPrice=22.15, lostPrice=75.35]
+id=4[category=SnowBoard, title=Capita, isAvialible=true, rentPrice=18.2, lostPrice=68.78]
+id=5[category=SnowBoard, title=Alyaska, isAvialible=true, rentPrice=19.34, lostPrice=64.17]
+id=6[category=Skis, title=Fischer, isAvialible=false, rentPrice=15.1, lostPrice=50.05]
+id=7[category=Skis, title=RC4, isAvialible=true, rentPrice=19.8, lostPrice=70.85]
